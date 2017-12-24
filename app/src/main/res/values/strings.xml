@@ -2,6 +2,6 @@
     <string name="app_name">HelloAndroid</string>
     <string name="company_name">Udacity</string>
     <string name="company_address">2465 Latham St\nMountain View, CA 94043</string>
-    <string name="company_phone">650-555-5555</string>
-    <string name="company_website">www.udacity.com</string>
+    <string name="company_phone"><a href="tel:650-555-5555">650-555-5555</a></string>
+    <string name="company_website"><a href="www.udacity.com">www.udacity.com</a></string>
 </resources>
